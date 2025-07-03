@@ -36,6 +36,6 @@ I love **learning how to transform data, models, and participatory tools into op
 
 - 🤔 Looking for insights on integrating economic valuation into ecological planning.
 - 💬 Ask me about climate policy, participatory methods, or where to find the best chilaquiles in CDMX.
-- 📫 Reach me at [caro@email.com](mailto:caro@email.com) or [LinkedIn](https://www.linkedin.com/in/carostrepto/)
+- 📫 Reach me at [carostrepto@gmail.com](mailto:carostrepto@gmail.com) or [LinkedIn](https://www.linkedin.com/in/carostrepto/)
 - 😄 Pronouns: she/her
 - 🐾 Fun fact: I love cats, plants, and I’m always up for a hike or a carne asada 🌿🔥
