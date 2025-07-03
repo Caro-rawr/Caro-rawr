@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Caro Cruz 
+# 🌿 Hi, I’m Caro 
 
 I’m a sustainability researcher working at the intersection of **territorial decarbonization**, **socio-environmental transitions**, and **decision-making under deep uncertainty**.
 Trained as a **biologist**, and currently pursuing a **Master’s in Sustainability Sciences at UNAM** and a **Bachelor’s in International Relations**, I bring a **transdisciplinary perspective** to navigate complex systems where **climate, territory, justice, and governance** converge.
