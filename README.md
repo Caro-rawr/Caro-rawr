@@ -17,7 +17,7 @@ My work integrates **geospatial modeling**, **data analysis**, and **participato
 **📊 R for Sustainability**  
   Materials and scripts from a course on **Statistics and Mathematical Modeling of Socio-Ecological Systems in R**, developed in collaboration with Dr. [Yosune Miquelajauregui Graf](https://github.com/yosunemiquela).  
   The repository explores quantitative tools for analyzing complex systems using real-world sustainability challenges.  
-  [→ View project *(coming soon)*]
+   [→ View project](https://github.com/Caro-rawr/R_sostenibilidad)
   
  **🧩 Decision Game for DMDU**  
   A serious game exploring decision-making under deep uncertainty in climate policy.  
