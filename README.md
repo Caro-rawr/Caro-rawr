@@ -24,8 +24,8 @@ My work integrates **geospatial modeling**, **data analysis**, and **participato
   [→ View project](https://github.com/Caro-rawr/Decision-Game-for-DMDU)
   
 **🗺️ Territorial Decarbonization in Yucatán**  
-  Multi-sectoral strategies for reducing emissions while enhancing resilience and justice.  
-  [→ View project](coming soon)
+  Strategic land-use transformations to reduce emissions and build resilient, just territories.  
+  [→ View project](https://github.com/Caro-rawr/Territorial_decarbonization)
   
 **🔍 DMDU in Latin America**  
   Mapping how decision-making under deep uncertainty (DMDU) is being applied across Latin America.  
