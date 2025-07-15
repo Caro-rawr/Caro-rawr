@@ -30,7 +30,7 @@ My work integrates **geospatial modeling**, **data analysis**, and **participato
 **🔍 DMDU in Latin America**  
   Mapping how decision-making under deep uncertainty (DMDU) is being applied across Latin America.  
   This project is part of the **Latin America Working Group** of the [DMDU Society](https://www.deepuncertainty.org/dmdu-member-groups/), focused on exploring tools and methods to navigate uncertainty in complex policy settings.  
-  [→ View project *(coming soon)*]
+  [→ View project](https://github.com/Caro-rawr/DMDU_LatinAmerica)
   
 ---
 ## 🧬 About me
