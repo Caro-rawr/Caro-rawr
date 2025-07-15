@@ -21,7 +21,7 @@ My work integrates **geospatial modeling**, **data analysis**, and **participato
   
  **🧩 Decision Game for DMDU**  
   A serious game exploring decision-making under deep uncertainty in climate policy.  
-  [→ View project](coming soon)
+  [→ View project](https://github.com/Caro-rawr/Decision-Game-for-DMDU)
   
 **🗺️ Territorial Decarbonization in Yucatán**  
   Multi-sectoral strategies for reducing emissions while enhancing resilience and justice.  
