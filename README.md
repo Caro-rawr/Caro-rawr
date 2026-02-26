@@ -1,46 +1,76 @@
-# 🌿 Hi, I’m Caro 
+# Carolina Cruz Núñez
 
-I’m a sustainability researcher working at the intersection of **territorial decarbonization**, **socio-environmental transitions**, and **decision-making under deep uncertainty**.
-Trained as a **biologist**, and currently pursuing a **Master’s in Sustainability Sciences at UNAM** and a **Bachelor’s in International Relations**, I bring a **transdisciplinary perspective** to navigate complex systems where **climate, territory, justice, and governance** converge.
-My work integrates **geospatial modeling**, **data analysis**, and **participatory processes** to support the development of multi-scale strategies aligned with national and global sustainability goals. I focus on how **science, policy, and collective action** interact to shape just and resilient futures — particularly across Latin America.
+**Climate Analytics & Decarbonization Strategy | Python · R · QGIS | Mexico City**
+
+M.Sc. Sustainability Sciences · B.Sc. Biology · B.A. International Relations
 
 ---
-## 🔧 Tools & Methods
 
-- QGIS · Google Earth Engine · R · Python · Markdown 
-- Decision Making under Deep Uncertainty (DMDU)
-- Participatory modeling & serious games
-- Territorial analysis & nature-based solutions
-- Environmental justice & science-policy interfaces
+## What I build
+
+I develop quantitative tools and strategic frameworks at the intersection of climate risk, territorial decarbonization, and carbon markets — translating scientific analysis into outputs that inform policy decisions and investment strategy.
+My work sits at the convergence of three areas most organizations struggle to connect: the technical rigor of emissions modeling, the regulatory literacy of climate frameworks (GHG Protocol, TCFD, NDCs, Article 6), and the operational capacity to deliver reproducible, auditable workflows.
+
 ---
-## 📂 Projects
-**📊 R for Sustainability**  
-  Materials and scripts from a course on **Statistics and Mathematical Modeling of Socio-Ecological Systems in R**, developed in collaboration with Dr. [Yosune Miquelajauregui Graf](https://github.com/yosunemiquela).  
-  The repository explores quantitative tools for analyzing complex systems using real-world sustainability challenges.  
-   [→ View project](https://github.com/Caro-rawr/R_sostenibilidad)
-  
- **🧩 Decision Game for DMDU**  
-  A serious game exploring decision-making under deep uncertainty in climate policy.  
-  [→ View project](https://github.com/Caro-rawr/Decision-Game-for-DMDU)
-  
-**🗺️ Territorial Decarbonization in Yucatán**  
-  Strategic land-use transformations to reduce emissions and build resilient, just territories.  
-  [→ View project](https://github.com/Caro-rawr/Territorial_decarbonization)
-  
-**🔍 DMDU in Latin America**  
-  Mapping how decision-making under deep uncertainty (DMDU) is being applied across Latin America.  
-  This project is part of the **Latin America Working Group** of the [DMDU Society](https://www.deepuncertainty.org/dmdu-member-groups/), focused on exploring tools and methods to navigate uncertainty in complex policy settings.  
-  [→ View project](https://github.com/Caro-rawr/DMDU_LatinAmerica)
-  
+
+## Active repositories
+
+**[carbon-offset-quality-screener](https://github.com/Caro-rawr/carbon-offset-quality-screener)**  
+Scores voluntary carbon market projects from the Verra Registry across 6 integrity dimensions (vintage, retirement ratio, additionality proxy, governance, transparency, project type risk). Produces a Composite Quality Index, red flag detection, and portfolio-level Plotly visualizations. Built in response to ICVCM Core Carbon Principles reform and the due diligence gap in VCM procurement.  
+`Python` `carbon-markets` `ESG` `Verra`
+
+**[mexico-decarb-scenario-explorer](https://github.com/Caro-rawr/mexico-decarb-scenario-explorer)**  
+Interactive Streamlit dashboard modeling Mexico's GHG trajectories (2020–2050) under BAU, NDC unconditional, NDC conditional, and 1.5°C pathways — across 8 sectors using INECC 2020 baseline data. Monte Carlo simulation produces uncertainty bands; robustness table follows DMDU methodology.  
+`Python` `Streamlit` `DMDU` `climate-policy` `Mexico`
+
+**[ghg-inventory-toolkit](https://github.com/Caro-rawr/ghg-inventory-toolkit)**  
+Python library for corporate GHG inventories (Scopes 1–3) following GHG Protocol Corporate Standard. Curated emission factor database from INECC 2023, SEMARNAT,  and IPCC 2019. Generates auditable Excel (multi-sheet) and HTML reports. Designed for Mexican regulatory context (RETC, LGEEPA, LGCC).  
+`Python` `GHG-Protocol` `INECC` `carbon-accounting`
+
+**[Territorial_decarbonization](https://github.com/Caro-rawr/Territorial_decarbonization)**  
+Geospatial analysis and scenario modeling for land-use based decarbonization strategies in Yucatán, Mexico. Integrates CONAFOR, INEGI, and satellite data to evaluate AFOLU mitigation potential under multiple policy futures.  Methodological basis for M.Sc. thesis (LANCIS–UNAM, 2023–2025).  
+`R` `QGIS` `AFOLU` `territorial-planning`
+
+**[DMDU_LatinAmerica](https://github.com/Caro-rawr/DMDU_LatinAmerica)**  
+Mapping of Decision-Making Under Deep Uncertainty (DMDU) applications across Latin America. Developed within the DMDU Society Latin America Working Group. Identifies methodological gaps and regional adoption patterns for robust climate policy design.  
+`DMDU` `climate-policy` `Latin-America`
+
 ---
-## 🧬 About me
 
-I started out as a molecular biologist, deeply fascinated by cellular biology and the invisible architectures of life. But life has brought me elsewhere — toward the messy, fascinating world of climate change, sustainability, and environmental policy.
-I’m passionate about addressing climate and ecological challenges through public policy, and I’m drawn to international affairs and the idea of helping shape the world through global cooperation.
-I love **learning how to transform data, models, and participatory tools into operational strategies** that support just, grounded climate action.
+## Technical stack
 
-- 🤔 Looking for insights on integrating economic valuation into ecological planning.
-- 💬 Ask me about climate policy, participatory methods, or where to find the best chilaquiles in CDMX.
-- 📫 Reach me at [carostrepto@gmail.com](mailto:carostrepto@gmail.com) or [LinkedIn](https://www.linkedin.com/in/carostrepto/)
-- 😄 Pronouns: she/her
-- 🐾 Fun fact: I love cats, plants, and I’m always up for a hike or a carne asada 🌿🔥
+| Domain | Tools |
+|---|---|
+| Data analysis & modeling | Python (pandas, numpy, scipy, plotly) · R (dplyr, ggplot2, tidyr) |
+| Geospatial | QGIS · geopandas · Google Earth Engine |
+| Climate frameworks | GHG Protocol · TCFD · ISO 14064 · IPCC Guidelines 2019 |
+| Carbon markets | Verra VCS · GS · ICVCM CCPs · Article 6 mechanisms |
+| Visualization & reporting | Streamlit · Tableau · Excel advanced |
+| Uncertainty methods | DMDU · Monte Carlo · Scenario analysis · Sensitivity analysis |
+
+---
+
+## Domain expertise
+
+- **Territorial decarbonization** — land-use strategies, AFOLU emissions, 
+  nature-based solutions, jurisdictional REDD+
+- **Carbon markets** — VCM project integrity, offset quality screening, 
+  voluntary and regulated market mechanisms
+- **Corporate GHG accounting** — Scope 1/2/3 inventories, RETC reporting, 
+  emissions baseline development
+- **Climate risk & policy** — NDC alignment, transition risk analysis, 
+  climate scenario modeling for decision support
+- **Stakeholder translation** — converting technical analysis into 
+  strategic recommendations for government, private sector, and multilateral audiences
+
+---
+
+## Background
+
+Biologist by training, sustainability scientist by practice. 
+Three years working at the interface of climate science, public policy, and data — from territorial decarbonization projects with LANCIS–UNAM to institutional facilitation with the DMDU Society Latin America Working Group.
+
+Trained in sustainable finance (GFLAC/FLACSO), data science (Hertie School), and AI fundamentals (Microsoft/UNAM). Fluent in Spanish and English; intermediate French.
+
+📫 [carostrepto@gmail.com](mailto:carostrepto@gmail.com) · 
+[linkedin.com/in/carostrepto](https://linkedin.com/in/carostrepto)
