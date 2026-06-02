@@ -2,8 +2,6 @@
 
 **Climate Analytics & Decarbonization Strategy | Python · R · QGIS | MSc Sustainability Sciences**
 
-M.Sc. Sustainability Sciences · B.Sc. Biology · B.A. International Relations
-
 ---
 
 ## What I build
