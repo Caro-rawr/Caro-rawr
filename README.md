@@ -72,9 +72,9 @@ Mapping of Decision-Making Under Deep Uncertainty (DMDU) applications across Lat
 ## Background
 
 Biologist by training, sustainability scientist by practice.
-Three years working at the interface of climate science, public policy, and data — from territorial decarbonization projects with LANCIS–UNAM to institutional facilitation with the DMDU Society Latin America Working Group.
 
-Trained in sustainable finance (GFLAC/FLACSO), data science (Hertie School), and AI fundamentals (Microsoft/UNAM). Fluent in Spanish and English; intermediate French.
+My work spans the full arc from analysis to implementation: territorial decarbonization modeling and GHG scenario analysis at LANCIS–UNAM, to applied environmental compliance in large-scale urban public infrastructure. 
+Trained in sustainable finance (GFLAC/FLACSO), data science (Hertie School), and AI fundamentals (Microsoft/CONOCER/UNAM). Fluent in Spanish and English; intermediate French.
 
 📫 [carostrepto@gmail.com](mailto:carostrepto@gmail.com) ·
 [linkedin.com/in/carostrepto](https://linkedin.com/in/carostrepto)
